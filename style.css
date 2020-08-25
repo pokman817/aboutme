@@ -1,0 +1,64 @@
+body {
+  background-image: url("images/bg.png");
+  background-repeat: repeat;
+  margin: 0px;
+}
+
+#gotop {
+  display: none;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;    
+  padding: 10px 15px;    
+  font-size: 20px;
+  color: white;
+  cursor: pointer;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.aboutme {
+ background-color: indigo;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ color: thistle;
+
+}
+
+.join {
+  background-color: chocolate;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+ 
+ }
+
+.hobby {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+  color: blue;
+}
+
+.refer {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: yellow;
+  color: darkslategrey;
+}
+
+.refer img {
+  max-width: 400px;
+
+}
+
+footer {
+  background-color: yellowgreen;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+}
